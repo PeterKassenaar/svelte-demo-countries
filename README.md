@@ -11,9 +11,9 @@ See comments.
 
 ## Components
 There are three components:
-- App.svelte - the smart component, holding all the logic.
-- CountryList.svelte - showing a list of received countries.
-- CountryDetail.svelte - showing details of a specific country.
+- `App.svelte` - the smart component, holding all the logic.
+- `CountryList.svelte` - showing a list of received countries.
+- `CountryDetail.svelte` - showing details of a specific country.
 - See the source code for more comments.
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
